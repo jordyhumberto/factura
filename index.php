@@ -31,7 +31,8 @@
     <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
     <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="stylesheet" href="css/login.css">
-    <title>INTRANET</title>
+    <title>Upein</title>
+    <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon">
 </head>
 <body>
 <div style="height:100vh;background:url('img/upeinfondo.jpg');background-size:100% 100%;">
